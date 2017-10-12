@@ -1,0 +1,78 @@
+/* Empty. Add your own CSS if you like */
+img{
+    -webkit-user-drag: none;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 100px !important;
+    max-height: 100px !important;
+}
+#speechImage{
+    -webkit-user-drag: none;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 150px !important;
+    max-height: 200px !important;  
+}
+.button.button-balanced {
+    border-color: transparent;
+    background-color: deepskyblue;
+    color: #fff;
+    width:150px;
+    text-align: center;
+    text-decoration: none;
+    display: center;
+    margin:0 auto;
+}
+.button.button-balanced:hover{
+     background-color: #EBDEF0;
+     
+}
+.balanced{
+    float:center;
+    font-size:25px;
+    margin-left: 720px;
+       
+    
+}
+.register{
+    color:#000;
+    float:center;
+    font-size:25px;
+    margin-left: 750px;
+}
+#result{
+    -webkit-user-drag: none;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 200px !important;
+    max-height: 200px !important; 
+}
+body{
+    background-image:url('https://s-media-cache-ak0.pinimg.com/736x/5e/1a/01/5e1a01f26f79e71e40c269f1fe4ef53e.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#x{
+    color:red;
+}
+.error {
+    color: red;
+    font-weight: bold;
+}
+.success{
+    color:green;
+    font-weight: bold;
+}
+#facebook{
+    background:#648abf;
+}
+#gmail{
+    background:#fd3325;
+}
+.pane{
+   background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
